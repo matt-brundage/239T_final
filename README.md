@@ -3,7 +3,7 @@ Final project for 239T
 
 
 
-1. Short Description
+**Short Description**
 
 a. Goals
 
@@ -24,14 +24,14 @@ b. Overview of steps
 
 
 
-2. Dependencies
+**Dependencies**
 
 R, version 3.5.3
 
 
 
 
-3. Files
+**Files**
 
 a. Code
 
